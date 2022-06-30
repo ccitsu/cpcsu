@@ -7,6 +7,7 @@ public class RoundOff {
           double e = 100.500;
           float f = 100;
           float g = 90f;
+          
           System.out.println(Math.round(d));
           System.out.println(Math.round(e));
           System.out.println(Math.round(f));
